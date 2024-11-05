@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Daniel!
+#### Hi there 👋, I'm Daniel!
 
-## 👨🏿‍💼 Frontend Developer | Mobile Developer | iOS Developer
+# 👨🏿‍💼 Frontend Developer | Mobile Developer | iOS Developer
 
 🧑🏿‍💻 Sharing about my journey and learnings in tech. <br/>
 
