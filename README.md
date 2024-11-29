@@ -1,6 +1,6 @@
 #### Hi there 👋, I'm Daniel!
 
-# 👨🏿‍💼 Mobile Developer & iOS Developer
+# 👨🏿‍💼 Software Engineer
 
 🧑🏿‍💻 Sharing about my journey and learnings in tech. <br/>
 
