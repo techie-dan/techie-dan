@@ -20,15 +20,11 @@
 </p><br><!-- My Skills-->
 <h4 align="left">Languages and Tools:</h4>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt=" sass logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.jslogo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=React-native" height="40" alt=" logo"  />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  
 </div><br><!--My Streaks-->
+
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=techie-dan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
