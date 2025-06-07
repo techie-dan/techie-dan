@@ -4,9 +4,8 @@
 
 
 <!-- Introduction & About-->
-<h3 align="left">A versatile Frontend & Mobile Developer from Lagos, Nigeria. Open Source Contributor for Web Development and building Mobile Apps with Flutter & React-Native</h3>
-- 🌱 I’m currently learning **React.js, Next.js**
 
+<h3 align="left">A passionate Mobile Developer & Product Designer from Lagos, Nigeria. Open Source Contributor for flutter Development</h3>
 
 
 <!-- Social Links-->
