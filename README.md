@@ -23,7 +23,6 @@
     <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo" />
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-    <img src="https://skillicons.dev/icons?i=nuxtjs" height="40" alt="next.js logo" />
     <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node.js logo"/>
      <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"/>
