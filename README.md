@@ -5,7 +5,7 @@
 
 <!-- Introduction & About-->
 
-<h3 align="left">A passionate Web + Mobile Engineer from Lagos, Nigeria. Open Source Contributor for Javascript & Dart</h3>
+<h3 align="left">A passionate Fullstack + Mobile Engineer from Lagos, Nigeria. Open Source Contributor for Javascript & Dart</h3>
 
 
 <!-- Social Links-->
@@ -19,13 +19,11 @@
 </p><br><!-- My Skills-->
 <h4 align="left">Languages and Tools:</h4>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"/>
-    <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
-    <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo" />
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node.js logo"/>
-     <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"/>
+    <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"/>
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javscript logo"/>
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
+    <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"/>
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
     
   
