@@ -1,11 +1,11 @@
-# Software Engineer💻
+# Mobile Engineer💻
 
-<h3 align="left">Hi 👋, I'm Daniel Olaleye</h1>
+<h5 align="left">Hi 👋, I'm Daniel Olaleye</h5>
 
 
 <!-- Introduction & About-->
 
-<h3 align="left">A passionate Mobile Engineer + Product Designer from Lagos, Nigeria. Open Source Contributor for Dart</h3>
+<h3 align="left">A passionate and versertile Mobile Engineer from Lagos, Nigeria. Open Source Contributor for Flutter & iOS Development</h3>
 
 
 <!-- Social Links-->
@@ -24,7 +24,9 @@
      <img src="https://skillicons.dev/icons?i=dart" height="40" alt="notion logo"/>
     <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="notion logo"/>
     <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"/>
-    <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"/>
+    <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"/>
+     
+    
 </div><br><!--My Streaks-->
 
 <div align="left">
