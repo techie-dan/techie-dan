@@ -10,7 +10,7 @@ I'm a 📱 Mobile and iOS developer delivering smooth, responsive, and elegant c
 
 <!-- Skills Links-->
 <h4>🔨 My Skills </h4>
-<img src="https://skillicons.dev/icons?i=figma,flutter,dart,swift,swiftui,firebase,supabase,git,notion" />
+<img src="https://skillicons.dev/icons?i=figma,flutter,dart,swift,firebase,supabase,git,notion" />
 
 <!-- Social Links-->
 <h4>🔗 Connect with me </h4>
