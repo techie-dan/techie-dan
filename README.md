@@ -1,18 +1,18 @@
-# Software Developer💻
+# Mobile Developer💻
 
 
 
-<h2 align="left">👋Hey there!</h2>
+<h3 align="left">👋Hey there!</h3>
 
 
 <!-- Introduction & About-->
 
-I'm a Frontend Developer and Mobile Developer who loves building beautiful UIs and smooth experiences. On the web, I use JavaScript frameworks like React  to craft fast, responsive apps. On mobile, I bring designs to life with Flutter for truly cross-platform magic. I’m all about turning ideas into real, usable, and delightful products. Whether it's the web or mobile, I focus on clean code, great design, and solid user experience and am a open source contributor to javascript and dart.
+I'm a 📱 Flutter mobile developer delivering smooth, responsive, and elegant cross-platform apps with a strong eye for polished UI and flawless user experiences I’m all about turning ideas into real, usable, and delightful products. Passionate about writing clean, maintainable code that brings ideas to life on any device.Explore my projects to see how I turn concepts into beautiful, functional apps ready for the real world. With a strong eye for detail and a commitment to best practices, I aim to deliver reliable, scalable apps that users genuinely enjoy. Always learning, always improving, and always excited to take on the next challenge.
 
 
+<!-- Skills Links-->
+[![My Skills](https://skillicons.dev/icons?i=figma,flutter,dart,firebase,supabase,git,notion)](https://skillicons.dev)
 <!-- Social Links-->
-
-[![My Skills](https://skillicons.dev/icons?i=figma,scss,tailwind,js,ts,react,flutter,dart,firebase)](https://skillicons.dev)
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/techiedan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techiedan_" height="30" width="40" /></a>
