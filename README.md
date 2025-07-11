@@ -1,7 +1,7 @@
 # 💻 Software Engineer
 
 <!-- Introduction & About-->
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
   I’m a Web & Mobile Developer dedicated to delivering smooth, responsive, and elegant applications with a strong eye for polished UI and seamless user experiences. I craft modern, accessible front-end web interfaces, build robust cross-platform mobile apps with Flutter, and create native iOS applications that turn ideas into real, usable, and delightful products.
 
@@ -12,17 +12,28 @@ Passionate about writing clean, maintainable code, I focus on bringing concepts 
 - ⚡ **Aspiring Fullstack** — learning to architect and deliver complete, end-to-end solutions.
 
 
-### 🛠️ Skills & ToolsT
-<img src="https://skillicons.dev/icons?i=figma,sass,javascript,flutter,dart,firebase,supabase,git,notion" />
+### 🛠️ Skills & Tools
+<img src="https://skillicons.dev/icons?i=figma,sass,javascript,typescript,react,flutter,dart,swift,firebase,supabase,git,notion" />
 
 <!-- Social Links-->
-<h4>🔗 Connect with me </h4>
+### ✨ Let's Connect!
 
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/techiedan_) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/techiedan_/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/daniel-olaleye-16ab7b369/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:danielolaleye064@gmail.com)[<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/techiedan_)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/techiedan_) &nbsp;
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/techiedan_/) &nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/daniel-olaleye-16ab7b369/) &nbsp;
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:danielolaleye064@gmail.com) &nbsp;
+[<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />](https://www.behance.net/techiedan_)
+
+
+### 🌱 Currently Learning
+- Node.js and Express
+- Database design (SQL/NoSQL)
+- Advanced iOS patterns
+- Next.js
 
 
 <!--My Streak Stats-->
-<h4>📈 Stats & Streaks</h4>
+### 📈 Stats
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=techie-dan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   &nbsp;&nbsp;
