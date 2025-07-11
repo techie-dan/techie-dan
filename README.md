@@ -1,22 +1,19 @@
-# Mobile Developer💻
-
-
-
-<h3 align="left">👋Hey there!</h3>
-
+# 💻 Software Engineer
 
 <!-- Introduction & About-->
-I’m a 📱 Mobile Developer dedicated to delivering smooth, responsive, and elegant apps with a strong eye for polished UI and flawless user experiences. I specialize in cross-platform mobile apps with Flutter, turning ideas into real, usable, and delightful products.
+## 👨‍💻 About Me
+
+  I’m a Web & Mobile Developer dedicated to delivering smooth, responsive, and elegant applications with a strong eye for polished UI and seamless user experiences. I craft modern, accessible front-end web interfaces, build robust cross-platform mobile apps with Flutter, and create native iOS applications that turn ideas into real, usable, and delightful products.
 
 Passionate about writing clean, maintainable code, I focus on bringing concepts to life on any device—whether that means building deeply mobile  experiences for iOS & andriod creating flexible, scalable apps with Firebase. With an eye for detail and a commitment to best practices, I aim to deliver reliable, high-quality apps that users genuinely love.
 
-Always learning, always improving, and always ready to take on the next challenge.
+- 🌐 **Frontend Web Developer** — crafting responsive, accessible, and performant UIs with modern tools.  
+- 📱 **Mobile Developer** — skilled in **Flutter** for beautiful cross-platform apps, and **iOS development** for native Apple experiences.  
+- ⚡ **Aspiring Fullstack** — learning to architect and deliver complete, end-to-end solutions.
 
 
-
-<!-- Skills Links-->
-<h4>🔨 My Skills </h4>
-<img src="https://skillicons.dev/icons?i=figma,flutter,dart,firebase,supabase,git,notion" />
+### 🛠️ Skills & ToolsT
+<img src="https://skillicons.dev/icons?i=figma,sass,javascript,flutter,dart,firebase,supabase,git,notion" />
 
 <!-- Social Links-->
 <h4>🔗 Connect with me </h4>
