@@ -3,17 +3,17 @@
 <!-- Introduction & About-->
 ### 👨‍💻 About Me
 
-  I’m a Web & Mobile Developer dedicated to delivering smooth, responsive, and elegant applications with a strong eye for polished UI and seamless user experiences. I craft modern, accessible front-end web interfaces, build robust cross-platform mobile apps with Flutter, and create native iOS applications that turn ideas into real, usable, and delightful products.
-
+  I’m a Web & Mobile Developer dedicated to delivering smooth, responsive, and elegant applications with a strong eye for polished UI and seamless user experiences. I craft modern, accessible front-end web interfaces, build robust cross-platform mobile apps with Flutter.
+  
 Passionate about writing clean, maintainable code, I focus on bringing concepts to life on any device—whether that means building deeply mobile  experiences for iOS & andriod creating flexible, scalable apps with Firebase. With an eye for detail and a commitment to best practices, I aim to deliver reliable, high-quality apps that users genuinely love.
 
 - 🌐 **Frontend Web Developer** — crafting responsive, accessible, and performant UIs with modern tools.  
-- 📱 **Mobile Developer** — skilled in **Flutter** for beautiful cross-platform apps, and **iOS development** for native Apple experiences.  
+- 📱 **Mobile Developer** — skilled in **Flutter** for beautiful cross-platform apps.
 - ⚡ **Aspiring Fullstack** — learning to architect and deliver complete, end-to-end solutions.
 
 
 ### 🛠️ Skills & Tools
-<img src="https://skillicons.dev/icons?i=figma,sass,javascript,typescript,react,flutter,dart,swift,firebase,supabase,git,notion" />
+<img src="https://skillicons.dev/icons?i=figma,sass,javascript,typescript,react,flutter,dart,firebase,supabase,git,notion" />
 
 <!-- Social Links-->
 ### ✨ Let's Connect!
@@ -28,7 +28,6 @@ Passionate about writing clean, maintainable code, I focus on bringing concepts 
 ### 🌱 Currently Learning
 - Node.js and Express
 - Database design (SQL/NoSQL)
-- Advanced iOS patterns
 - Next.js
 
 
