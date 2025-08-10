@@ -3,7 +3,7 @@
 <!-- Introduction & About-->
 ### 👨‍💻 About Me
 
- I’m a Mobile Engineer specializing in building beautiful, high-performance applications with Flutter and Dart. I create smooth, responsive, and user-friendly apps that work flawlessly on both iOS and Android, combining clean code with pixel-perfect UI design.
+ I’m a Mobile Engineer specializing in building scalable, high-performance mobile and web applications with Flutter UI and Dart. I create smooth, responsive, and user-friendly apps that work flawlessly on both iOS and Android, combining clean code with pixel-perfect UI design.
 
 With a strong focus on cross-platform development, I bring ideas to life through scalable architectures, real-time databases, and functional apps that feel truly native. From concept to deployment, I ensure every detail is refined for performance, accessibility, and user satisfaction.
 
