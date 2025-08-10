@@ -1,19 +1,19 @@
-# 💻 Software Engineer
+# Mobile Engineer
 
 <!-- Introduction & About-->
 ### 👨‍💻 About Me
 
-  I’m a Web & Mobile Developer dedicated to delivering smooth, responsive, and elegant applications with a strong eye for polished UI and seamless user experiences. I craft modern, accessible front-end web interfaces, build robust cross-platform mobile apps with Flutter.
-  
-Passionate about writing clean, maintainable code, I focus on bringing concepts to life on any device—whether that means building deeply mobile  experiences for iOS & andriod creating flexible, scalable apps with Firebase. With an eye for detail and a commitment to best practices, I aim to deliver reliable, high-quality apps that users genuinely love.
+ I’m a Mobile Engineer specializing in building beautiful, high-performance applications with Flutter and Dart. I create smooth, responsive, and user-friendly apps that work flawlessly on both iOS and Android, combining clean code with pixel-perfect UI design.
 
-- 🌐 **Frontend Web Developer** — crafting responsive, accessible, and performant UIs with modern tools.  
-- 📱 **Mobile Developer** — skilled in **Flutter** for beautiful cross-platform apps.
-- ⚡ **Aspiring Fullstack** — learning to architect and deliver complete, end-to-end solutions.
+With a strong focus on cross-platform development, I bring ideas to life through scalable architectures, real-time databases, and functional apps that feel truly native. From concept to deployment, I ensure every detail is refined for performance, accessibility, and user satisfaction.
+
+- 📱 Dart Developer — crafting cross-platform apps with elegant UI and smooth UX.
+- 🛠 Flutter UI Specialist — implementing pixel-perfect, responsive, and animated interfaces.
+- ☁️ Firebase & Supabase — integrating real-time data, authentication, and cloud storage.
 
 
 ### 🛠️ Skills & Tools
-<img src="https://skillicons.dev/icons?i=figma,sass,javascript,typescript,react,flutter,dart,firebase,supabase,git,notion" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,appwrite,git,figma,notion,"/>
 
 <!-- Social Links-->
 ### ✨ Let's Connect!
@@ -26,9 +26,8 @@ Passionate about writing clean, maintainable code, I focus on bringing concepts 
 
 
 ### 🌱 Currently Learning
-- Node.js and Express
-- Database design (SQL/NoSQL)
-- Next.js
+- Advanced Flutter State Management — Bloc, Riverpod, and scalable app architecture patterns
+- Mobile Performance Optimization — smooth animations, efficient rendering, and memory management techniques
 
 
 <!--My Streak Stats-->
